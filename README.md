@@ -1,4 +1,4 @@
-# Evaluation Phase 2: Phrases Extraction
+# Evaluation Phase 2, Part 1: Phrases Extraction
 
 #### Gold Sentence Annotations for the NCG Shared Task Test Dataset
 
